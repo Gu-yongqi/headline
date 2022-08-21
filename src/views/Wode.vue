@@ -12,11 +12,11 @@
         <div class="headTwo">
           <div @click="$router.push('/publish')">
             <div style="font-size:18px;">{{count}}</div>
-            <div>头111111条</div>
+            <div>头条</div>
           </div>
           <div>
             <div style="font-size:18px;">3</div>
-            <div>获111111赞</div>
+            <div>获赞</div>
           </div>
         </div>
       </div>
@@ -59,11 +59,11 @@
         <div class="headTwo">
           <div>
             <div style="font-size:18px;">0</div>
-            <div>头11111条</div>
+            <div>头条</div>
           </div>
           <div>
             <div style="font-size:18px;">0</div>
-            <div>获11111赞</div>
+            <div>获赞</div>
           </div>
         </div>
       </div>
